@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "912435449470",
+    "project_id": "gamatutor-517cf",
+    "storage_bucket": "gamatutor-517cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912435449470:android:748c1fe3883a3cb1ed122f",
+        "android_client_info": {
+          "package_name": "com.example.frontend_gamatutor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8zlcTANdF5clms0Fd87FX9-ek_enft80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912435449470:android:da9e45fe7a3b3e21ed122f",
+        "android_client_info": {
+          "package_name": "com.example.gamatutor_kanban"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8zlcTANdF5clms0Fd87FX9-ek_enft80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
